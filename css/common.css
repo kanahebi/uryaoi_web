@@ -1,0 +1,58 @@
+body {
+  padding-top: 70px;
+}
+.jumbotron {
+  background:url(../images/main.png) center no-repeat;
+  background-size: cover;
+}
+
+.introduction-container {
+  margin: 5px;
+}
+
+.introduction-container .container{
+  width: 100%;
+  margin: 20px;
+}
+
+.introduction-content {
+  margin-bottom: 60px;
+}
+
+.introduction-question {
+  width: 350px;
+}
+
+.introduction-question h3 {
+  margin-bottom: 20px;
+}
+
+.glossary-container {
+  margin: 5px;
+}
+
+.glossary-container .container{
+  width: 100%;
+  margin: 20px;
+}
+
+.glossary-content {
+  margin-bottom: 60px;
+}
+
+.problem-container {
+  margin: 5px;
+}
+
+.problem-container .container{
+  width: 100%;
+  margin: 20px;
+}
+
+.problem-content {
+  margin-bottom: 60px;
+}
+
+#introduction, #glossary, #problem {
+  padding-top: 60px;
+}
