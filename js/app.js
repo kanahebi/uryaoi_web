@@ -11,7 +11,7 @@ function ImMononofu(){
   $(".mononofu").show();
 };
 
-function IDontNo(){
+function ImNotMononofu(){
   $("#problem").show();
   $("#resolve").show();
   $(".not-mononofu").show();
