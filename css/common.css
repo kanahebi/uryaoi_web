@@ -7,12 +7,9 @@ body {
 }
 
 .introduction-container {
-  margin: 5px;
 }
 
 .introduction-container .container{
-  width: 100%;
-  margin: 20px;
 }
 
 .introduction-content {
@@ -28,12 +25,9 @@ body {
 }
 
 .glossary-container {
-  margin: 5px;
 }
 
 .glossary-container .container{
-  width: 100%;
-  margin: 20px;
 }
 
 .glossary-content {
@@ -41,18 +35,45 @@ body {
 }
 
 .problem-container {
-  margin: 5px;
 }
 
 .problem-container .container{
-  width: 100%;
-  margin: 20px;
 }
 
 .problem-content {
   margin-bottom: 60px;
 }
 
+.resolve-container {
+}
+
+.resolve-container .container{
+}
+
+.resolve-content {
+  margin-bottom: 60px;
+}
+
 #introduction, #glossary, #problem {
   padding-top: 60px;
+}
+
+.red-list {
+  list-style-image: url(../images/mark_red.png);
+}
+
+.yellow-list {
+  list-style-image: url(../images/mark_yellow.png);
+}
+
+.pink-list {
+  list-style-image: url(../images/mark_pink.png);
+}
+
+.green-list {
+  list-style-image: url(../images/mark_green.png);
+}
+
+.purple-list {
+  list-style-image: url(../images/mark_purple.png);
 }
